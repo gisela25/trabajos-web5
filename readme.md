@@ -1,3 +1,3 @@
-repositorio vciclo
+REPOSITORIO V CICLO-COMPUTACIÓN E INFORMATICA
 
 :)
